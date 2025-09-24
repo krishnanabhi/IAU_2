@@ -1,0 +1,30 @@
+Ideal Asset Utilization (IAU) System - Layman's Guide
+
+What is IAU?
+The IAU system helps retail businesses make the most of their products and storage space. It uses smart computer programs (AI) to find items that aren't selling well, so stores can take action before products expire or take up too much space.
+
+Key Terms Explained:
+- Inventory: All the products a store has in stock.
+- Stagnant Inventory: Products that haven't sold for a long time or are close to expiring.
+- AI (Artificial Intelligence): Computer programs that can learn and make decisions, like spotting slow-selling products.
+- Liquidation: Selling products quickly, often at a discount, to free up space and get cash.
+- Campaign: Special sales or promotions to help sell slow-moving products.
+- Dashboard: A screen that shows important information and results in a simple way.
+
+How Does IAU Work?
+1. The system looks at all products in the store, checking how long they've been there, when they were last sold, and when they expire.
+2. It uses AI to find products that are not selling well or are about to expire.
+3. For these products, it suggests ways to sell them faster, like discounts or special offers.
+4. The store can launch sales campaigns based on these suggestions.
+5. The results and suggestions are shown on a dashboard, so managers can see what's working and what needs attention.
+
+Why is IAU Useful?
+- Helps stores avoid wasting products.
+- Frees up shelf and storage space for new items.
+- Improves cash flow by selling products before they expire.
+- Makes it easier for managers to make smart decisions using clear information.
+
+Responsible Use:
+The system is designed to be fair, secure, and respectful of privacy. It follows rules to protect customer and business data.
+
+In short, IAU is like a smart assistant for stores, helping them keep shelves fresh, avoid waste, and make more money by using their products wisely.

@@ -1,0 +1,10 @@
+IAU System Architecture (Multi-Agent)
+
+1. Inventory Data Ingestion & Storage
+2. Inventory Detection Agent (detects stagnant items)
+3. Recommendation Agent (generates liquidation strategies)
+4. Campaign Agent (automates sales campaigns)
+5. Analytics Agent (dashboard visualization)
+6. Responsible AI Layer
+
+See README.md for diagram and details.

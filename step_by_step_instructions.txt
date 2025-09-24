@@ -1,0 +1,41 @@
+Step-by-Step Instructions for IAU Multi-Agent System
+
+1. Prepare Inventory Data
+   - Collect inventory data with fields: SKU, name, category, quantity, shelf life, expiry date, seasonality tag, last sold date.
+   - Store data in CSV, database, or API accessible format.
+
+2. Set Up Python Environment
+   - Create a virtual environment: python -m venv iau_env
+   - Activate the environment: 
+     - Windows: iau_env\Scripts\activate
+     - Linux/Mac: source iau_env/bin/activate
+   - Install dependencies: pip install -r requirements.txt
+
+3. Configure Knowledge Base
+   - Edit sample_knowledge_base.txt to include liquidation strategies and best practices.
+
+4. Run Inventory Detection Agent
+   - Use agents/inventory_detection_agent.py to detect stagnant inventory items.
+   - Example: import inventory_model, agents.inventory_detection_agent; load data and call detect_stagnant_items()
+
+5. Generate Recommendations
+   - Use agents/recommendation_agent.py to get contextual recommendations for stagnant items.
+   - Supports OpenAI GPT (API key required), HuggingFace Transformers (local or hosted), or rule-based logic.
+   - Set model_type to 'openai', 'huggingface', or 'rule' in your code.
+   - For OpenAI, set your API key in the openai_api_key argument.
+   - For HuggingFace, configure the desired model in the pipeline.
+
+6. Automate Campaigns
+   - Use agents/campaign_agent.py to launch sales campaigns for flagged items.
+   - Integrate with marketing tools as needed.
+
+7. Visualize Analytics
+   - Run agents/analytics_agent.py with Streamlit: streamlit run agents/analytics_agent.py
+   - View stagnant items and recommendations in the dashboard.
+
+8. Review Responsible AI Practices
+   - See responsible_ai.md for fairness, security, privacy, and compliance guidelines.
+
+9. Extend and Integrate
+   - Connect with ERP, CRM, or POS systems for full automation.
+   - Customize modules for your business needs.

@@ -1,0 +1,51 @@
+Ideal Asset Utilization (IAU) System - Technical Deep Dive
+
+Overview:
+The IAU system is a modular, multi-agent AI solution for retail inventory optimization. It leverages advanced AI/ML models and LLMs (OpenAI GPT, HuggingFace Transformers) to identify stagnant inventory, recommend liquidation strategies, automate campaigns, and provide analytics, all while adhering to responsible AI principles.
+
+Architecture:
+- Inventory Data Ingestion: Loads product data from CSV, database, or API into InventoryItem objects.
+- Agents:
+  1. Inventory Detection Agent: Uses rule-based logic or ML models to flag stagnant items based on last sold date, expiry, and seasonality.
+  2. Recommendation Agent: Integrates with LLMs (OpenAI GPT, HuggingFace) or uses rule-based logic to generate contextual liquidation strategies, leveraging a knowledge base.
+  3. Campaign Agent: Automates sales campaigns for flagged items, with potential integration to marketing platforms (email, SMS, POS APIs).
+  4. Analytics Agent: Visualizes stagnant items and recommendations using Streamlit, with options for advanced analytics and BI integration.
+- Responsible AI Layer: Implements fairness, security, privacy, and compliance (GDPR, audit trails).
+
+Key Technologies:
+- Python 3.x
+- Streamlit (dashboard)
+- HuggingFace Transformers (LLMs)
+- OpenAI API (GPT models)
+- Pandas, NumPy (data handling)
+- Modular agent-based design (agents/ folder)
+
+Workflow:
+1. Inventory data is loaded and parsed into InventoryItem objects.
+2. Inventory Detection Agent flags stagnant items using configurable thresholds and logic.
+3. Recommendation Agent queries LLMs or applies rules to generate liquidation strategies, using a knowledge base for context.
+4. Campaign Agent launches sales campaigns, optionally integrating with external marketing systems.
+5. Analytics Agent displays results and insights on a dashboard.
+
+LLM Integration:
+- OpenAI GPT: API key required; prompts are constructed for contextual recommendations.
+- HuggingFace Transformers: Local or hosted models; pipeline used for text generation.
+- Model selection is configurable via the recommendation agent's arguments.
+
+Extensibility:
+- Agents can be replaced or extended (e.g., ML-based detection, advanced analytics, ERP/CRM integration).
+- Knowledge base can be expanded for richer recommendations.
+- Data sources can be adapted for real-time or batch processing.
+
+Responsible AI:
+- Explainable, auditable models.
+- Data encryption and access controls.
+- Privacy compliance (anonymization, GDPR).
+- Legal compliance and audit trails.
+
+Deployment:
+- Install dependencies from requirements.txt.
+- Run main.py for orchestration, or individual agents for modular operation.
+- Use Streamlit for dashboard visualization.
+
+This solution is designed for scalability, flexibility, and ethical AI deployment in retail environments.

@@ -1,0 +1,7 @@
+Sample Knowledge Base for RAG
+
+- Discount slow-moving items before expiry
+- Bundle stagnant products with top sellers
+- Use targeted email/SMS campaigns for clearance
+- Offer loyalty points for purchasing dormant stock
+- Analyze seasonality to time promotions

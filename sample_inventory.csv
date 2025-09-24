@@ -1,0 +1,101 @@
+sku,name,category,quantity,shelf_life_days,expiry_date,seasonality_tag,last_sold_date
+1001,Chocolate Bar,Snacks,120,180,2025-10-15,Summer,2025-08-01
+1002,Winter Jacket,Apparel,30,365,2026-01-10,Winter,2025-02-15
+1003,Sunscreen Lotion,Personal Care,50,365,2025-09-30,Summer,2025-06-20
+1004,Apple Juice,Beverages,80,90,2025-09-28,All,2025-09-01
+1005,Notebook,Stationery,200,730,2027-09-24,BackToSchool,2025-09-10
+1006,Holiday Lights,Decor,60,365,2025-12-20,Holiday,2024-12-25
+1007,Face Mask,Personal Care,500,365,2026-03-01,All,2025-08-15
+1008,Flip Flops,Apparel,75,365,2026-05-01,Summer,2025-07-10
+1009,Hot Cocoa,Beverages,40,180,2025-12-01,Winter,2024-12-10
+1010,Hand Sanitizer,Personal Care,150,365,2026-01-01,All,2025-09-05
+1011,Energy Drink,Beverages,90,180,2025-11-15,Summer,2025-08-20
+1012,School Bag,Stationery,60,730,2027-09-24,BackToSchool,2025-09-12
+1013,Table Lamp,Decor,35,365,2026-02-10,All,2025-07-25
+1014,Running Shoes,Apparel,55,365,2026-04-15,Summer,2025-08-05
+1015,Shampoo,Personal Care,110,365,2026-01-20,All,2025-09-02
+1016,Milk,Beverages,200,10,2025-09-26,All,2025-09-23
+1017,Notebook Pro,Stationery,80,730,2027-09-24,BackToSchool,2025-09-15
+1018,LED Bulb,Decor,120,365,2026-03-10,All,2025-08-30
+1019,Raincoat,Apparel,40,365,2026-07-01,Monsoon,2025-07-20
+1020,Toothpaste,Personal Care,180,365,2026-02-01,All,2025-09-04
+1021,Protein Bar,Snacks,130,180,2025-10-20,Summer,2025-08-05
+1022,Leather Jacket,Apparel,25,365,2026-01-15,Winter,2025-02-20
+1023,Moisturizer,Personal Care,60,365,2025-10-05,Summer,2025-06-25
+1024,Grape Juice,Beverages,85,90,2025-10-03,All,2025-09-06
+1025,Sketchbook,Stationery,210,730,2027-10-01,BackToSchool,2025-09-15
+1026,Party Lights,Decor,65,365,2025-12-25,Holiday,2024-12-30
+1027,Hand Wash,Personal Care,510,365,2026-03-06,All,2025-08-20
+1028,Sandals,Apparel,80,365,2026-05-06,Summer,2025-07-15
+1029,Tea,Beverages,45,180,2025-12-06,Winter,2024-12-15
+1030,Disinfectant,Personal Care,155,365,2026-01-06,All,2025-09-10
+1031,Sports Drink,Beverages,95,180,2025-11-20,Summer,2025-08-25
+1032,Backpack,Stationery,65,730,2027-10-01,BackToSchool,2025-09-17
+1033,Desk Lamp,Decor,40,365,2026-02-15,All,2025-07-30
+1034,Walking Shoes,Apparel,60,365,2026-04-20,Summer,2025-08-10
+1035,Conditioner,Personal Care,115,365,2026-01-25,All,2025-09-07
+1036,Yogurt,Beverages,205,10,2025-10-01,All,2025-09-28
+1037,Notebook Plus,Stationery,85,730,2027-10-01,BackToSchool,2025-09-20
+1038,Smart Bulb,Decor,125,365,2026-03-15,All,2025-09-04
+1039,Poncho,Apparel,45,365,2026-07-06,Monsoon,2025-07-25
+1040,Mouthwash,Personal Care,185,365,2026-02-06,All,2025-09-09
+1041,Granola Bar,Snacks,140,180,2025-10-25,Summer,2025-08-09
+1042,Denim Jacket,Apparel,35,365,2026-01-20,Winter,2025-02-25
+1043,Face Cream,Personal Care,70,365,2025-10-10,Summer,2025-06-30
+1044,Orange Juice,Beverages,90,90,2025-10-08,All,2025-09-11
+1045,Drawing Pad,Stationery,220,730,2027-10-08,BackToSchool,2025-09-20
+1046,Decorative Lights,Decor,70,365,2025-12-30,Holiday,2025-01-04
+1047,Body Wash,Personal Care,520,365,2026-03-11,All,2025-08-25
+1048,Slippers,Apparel,85,365,2026-05-11,Summer,2025-07-20
+1049,Coffee,Beverages,50,180,2025-12-11,Winter,2024-12-20
+1050,Sanitizer Spray,Personal Care,160,365,2026-01-11,All,2025-09-15
+1051,Electrolyte Drink,Beverages,100,180,2025-11-25,Summer,2025-08-30
+1052,Messenger Bag,Stationery,70,730,2027-10-08,BackToSchool,2025-09-22
+1053,Floor Lamp,Decor,45,365,2026-02-20,All,2025-08-05
+1054,Trail Shoes,Apparel,65,365,2026-04-25,Summer,2025-08-15
+1055,Hair Oil,Personal Care,120,365,2026-01-30,All,2025-09-12
+1056,Butter,Beverages,210,10,2025-10-06,All,2025-10-01
+1057,Notebook Ultra,Stationery,90,730,2027-10-08,BackToSchool,2025-09-25
+1058,Color Bulb,Decor,130,365,2026-03-20,All,2025-09-09
+1059,Windbreaker,Apparel,50,365,2026-07-11,Monsoon,2025-07-30
+1060,Toothbrush,Personal Care,190,365,2026-02-11,All,2025-09-14
+1061,Snack Bar,Snacks,150,180,2025-10-30,Summer,2025-08-13
+1062,Trench Coat,Apparel,40,365,2026-01-25,Winter,2025-03-02
+1063,Body Lotion,Personal Care,80,365,2025-10-15,Summer,2025-07-05
+1064,Pineapple Juice,Beverages,95,90,2025-10-13,All,2025-09-16
+1065,Art Pad,Stationery,230,730,2027-10-15,BackToSchool,2025-09-30
+1066,LED Strip,Decor,75,365,2025-12-35,Holiday,2025-01-09
+1067,Hand Cream,Personal Care,530,365,2026-03-16,All,2025-08-30
+1068,Flip Sandals,Apparel,90,365,2026-05-16,Summer,2025-07-25
+1069,Green Tea,Beverages,55,180,2025-12-16,Winter,2024-12-25
+1070,Surface Cleaner,Personal Care,170,365,2026-01-16,All,2025-09-19
+1071,Energy Bar,Snacks,160,180,2025-11-04,Summer,2025-08-17
+1072,Peacoat,Apparel,45,365,2026-01-30,Winter,2025-03-07
+1073,Face Serum,Personal Care,90,365,2025-10-20,Summer,2025-07-10
+1074,Tomato Juice,Beverages,100,90,2025-10-18,All,2025-09-21
+1075,Sketch Pad,Stationery,240,730,2027-10-22,BackToSchool,2025-10-05
+1076,Table Light,Decor,80,365,2025-12-40,Holiday,2025-01-14
+1077,Shower Gel,Personal Care,540,365,2026-03-21,All,2025-09-05
+1078,Beach Sandals,Apparel,95,365,2026-05-21,Summer,2025-07-30
+1079,Herbal Tea,Beverages,60,180,2025-12-21,Winter,2024-12-30
+1080,Glass Cleaner,Personal Care,180,365,2026-01-21,All,2025-09-24
+1081,Protein Cookie,Snacks,170,180,2025-11-09,Summer,2025-08-21
+1082,Winter Boots,Apparel,55,365,2026-02-04,Winter,2025-03-12
+1083,Sunblock,Personal Care,100,365,2025-10-25,Summer,2025-07-15
+1084,Carrot Juice,Beverages,105,90,2025-10-23,All,2025-09-26
+1085,Drawing Book,Stationery,250,730,2027-10-29,BackToSchool,2025-10-10
+1086,Ceiling Light,Decor,85,365,2025-12-45,Holiday,2025-01-19
+1087,Hand Soap,Personal Care,550,365,2026-03-26,All,2025-09-10
+1088,Pool Slippers,Apparel,100,365,2026-05-26,Summer,2025-08-05
+1089,Black Tea,Beverages,65,180,2025-12-26,Winter,2025-01-04
+1090,Floor Cleaner,Personal Care,190,365,2026-01-26,All,2025-09-29
+1091,Snack Mix,Snacks,180,180,2025-11-14,Summer,2025-08-25
+1092,Overcoat,Apparel,60,365,2026-02-09,Winter,2025-03-17
+1093,Face Pack,Personal Care,110,365,2025-10-30,Summer,2025-07-20
+1094,Mango Juice,Beverages,110,90,2025-10-28,All,2025-10-01
+1095,Art Journal,Stationery,260,730,2027-11-05,BackToSchool,2025-10-15
+1096,Wall Light,Decor,90,365,2025-12-50,Holiday,2025-01-24
+1097,Body Butter,Personal Care,560,365,2026-03-31,All,2025-09-15
+1098,Travel Sandals,Apparel,105,365,2026-05-31,Summer,2025-08-10
+1099,Oolong Tea,Beverages,70,180,2025-12-31,Winter,2025-01-09
+1100,Multipurpose Cleaner,Personal Care,200,365,2026-02-01,All,2025-10-04
